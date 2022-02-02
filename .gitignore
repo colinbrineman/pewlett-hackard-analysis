@@ -3,6 +3,7 @@
 /data/current_emp.csv
 /data/departments.csv
 /data/dept_emp.csv
+/data/dept_info.csv
 /data/dept_manager.csv
 /data/emp_info.csv
 /data/employees.csv
