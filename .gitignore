@@ -1,2 +1,13 @@
 .DS_Store
 /untracked
+/data/current_emp.csv
+/data/departments.csv
+/data/dept_emp.csv
+/data/dept_manager.csv
+/data/emp_info.csv
+/data/employees.csv
+/data/manager_info.csv
+/data/retirement_info.csv
+/data/retiring_emp_by_dept.csv
+/data/salaries.csv
+/data/titles.csv
