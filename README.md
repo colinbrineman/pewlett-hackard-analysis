@@ -9,7 +9,7 @@ The purpose of this analysis was to help a large company to prepare itself for t
 
 ### Retiring Employees by Title
 
-[!Retiring Employees by Title](/resources/retiring_titles.png)
+![Retiring Employees by Title](resources/retiring_titles.png)
 
 Two conclusions can be drawn from the table of retiring employees by title:
 1. **Senior employees are the most likely to retire.**  The 2 leading title categories of retiring employees are "Senior Engineer" & "Senior Staff" — together comprising slightly more than 70% of retiring employees. While this is not exactly unsurprising, given that the longer an employee is with the company, the likelier they are to have had the opportunity to be promoted, but it would present a problem for the company were there to be insufficient employees with the requisite skills in the "pipeline" to fill these positions going forward.
@@ -20,18 +20,19 @@ Three conclusions can be drawn from the table listing eligible mentors.
 
 1. **The number of eligible mentors is substantially smaller than the number of retiring employees.**
 
-[!Number of Eligible Mentors](/resources/mentorship_eligibility_1.png)
+![Number of Eligible Mentors](resources/mentorship_eligibility_1.png)
 
 With only 1,549 employees eligible to become mentors (according to the company's original parameters) — and 72,458 retiring employees — if the company intended to fill all positions of retiring employees, each mentor would have to take on nearly 47 mentees! Thus, even assuming that the company may only want to fill a fraction of recently vacated positions, it seems inescapable that they will need to relax their parameters for which employees to include in the mentorship program.
 
 2. **The percentages of titles by category of retiring employees vs. eligible mentors are nearly the same.**
 In order to perform this part of my analysis, I created 2 new tables using the following query:
 
-[!New Tables](/resources/mentorship_eligibility_1.png)
+![New Tables](resources/mentorship_eligibility.png)
 
 The following table contains the number of employees retiring by title & the number of eligible mentors by title:
 
-[!Titles Comparison](resources/titles_comparison.png)
+![Titles Comparison](resources/titles_comparison.png)
+
 The percentages of retiring and mentorship-eligible employees by title category were as follows:
 
 |Title Category|Retiring Employees|Eligible Mentors|
