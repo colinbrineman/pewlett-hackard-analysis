@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis was to help a large company to prepare itself for its "silver tsunami" of retiring employees. To that end, I was provided a variety of datasets containing information about the company's employees. I transformed that data using PostgreSQL and produced 2 final tables, containing:
+The purpose of this analysis was to help a large company to prepare itself for its "silver tsunami" of retiring employees. To that end, I was provided a variety of datasets containing information about the company's employees. I transformed that data using PostgreSQL & produced 2 final tables, containing:
 
 1. the number of retiring employees, broken down by their current job title, &
 
@@ -32,7 +32,7 @@ Three (3) conclusions can be drawn from the table listing eligible mentors.
 
 ![Number of Eligible Mentors](resources/mentorship_eligibility.png)
 
-With only 1,549 employees eligible to become mentors (according to the company's original parameters) — and 72,458 retiring employees — if the company intended to fill all positions of retiring employees, each mentor would have to take on nearly 47 mentees. Thus, even assuming that the company may only want to fill a fraction of their positions being vacated by retirement, it seems inescapable that they will need to relax their parameters for which employees to include in the mentorship program.
+With only 1,549 employees eligible to become mentors (according to the company's original parameters) — & 72,458 retiring employees — if the company intended to fill all positions of retiring employees, each mentor would have to take on nearly 47 mentees. Thus, even assuming that the company may only want to fill a fraction of their positions being vacated by retirement, it seems inescapable that they will need to relax their parameters for which employees to include in the mentorship program.
 
 2. **The percentages retiring employees vs. eligible mentors by title category are nearly the same.**
 
@@ -44,7 +44,7 @@ The following table compares the number of retiring employees & the number of el
 
 ![Titles Comparison](resources/titles_comparison.png)
 
-The percentages of retiring and mentorship-eligible employees by title category were as follows:
+The percentages of retiring & mentorship-eligible employees by title category were as follows:
 
 |Title Category|Retiring Employees|Eligible Mentors|
 |---|---|---|
@@ -52,7 +52,7 @@ The percentages of retiring and mentorship-eligible employees by title category 
 |Staff|44.9%|46.7%|
 |Technique Leader|5.0%|5.0%|
 
-The percentages for engineers, staff employees, and technique leaders are remarkably similar for retiring employees vs. eligible mentors. Provided that the company can identify a greater number of mentorship-eligible employees, then, they are at least not at risk of failing to fill a disproportionate number of titles by category.
+The percentages of engineers, staff employees, & technique leaders are remarkably similar among retiring employees vs. eligible mentors. Provided that the company can identify a greater number of mentorship-eligible employees, then, they are at least not at risk of failing to fill a disproportionate number of titles by category.
 
 3. **There are an insufficient number of mentors with senior-level titles.**
 
