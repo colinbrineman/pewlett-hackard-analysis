@@ -82,7 +82,7 @@ em.birth_date,
 de.from_date,
 de.to_date,
 ti.title
-INTO mentorship_eligibilty
+INTO mentorship_eligibility
 FROM employees as em
 INNER JOIN dept_emp as de
 ON (em.emp_no = de.emp_no)
@@ -94,4 +94,4 @@ ORDER BY em.emp_no, de.to_date DESC;
 -- 2.10 Export the Mentorship Eligibility table as mentorship_eligibilty.csv
      -- and save it to your Data folder in the Pewlett-Hackard-Analysis folder.
 -- 2.11 Before you export your table, confirm that it looks like this image:
-SELECT * FROM mentorship_eligibilty;
+SELECT * FROM mentorship_eligibility;
