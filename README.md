@@ -52,7 +52,7 @@ The percentages of retiring and mentorship-eligible employees by title category 
 |Staff|44.9%|46.7%|
 |Technique Leader|5.0%|5.0%|
 
-The percentages for engineers, staff employees, and technique leaders are remarkably similar. Provided that the company can identify a greater number of mentorship-eligible employees, then, they are at least not at risk of failing to fill a disproportionate number of titles by category.
+The percentages for engineers, staff employees, and technique leaders are remarkably similar for retiring employees vs. eligible mentors. Provided that the company can identify a greater number of mentorship-eligible employees, then, they are at least not at risk of failing to fill a disproportionate number of titles by category.
 
 3. **There are an insufficient number of mentors with senior-level titles.**
 
